@@ -1,1 +1,7 @@
-123
+name="Uk"
+
+url="https://raw.githubusercontent.com/lhy046510/WIZARD_UK/master/uk.zip"
+img="https://raw.githubusercontent.com/lhy046510/WIZARD_UK/master/uk.png"
+fanart="https://raw.githubusercontent.com/lhy046510/XBMC_ITZIP/master/fanart.jpg"
+description="This is the BIT USA Package.  
+WARNING:Packs from outside your region might contain illegal plugins for your region!"
